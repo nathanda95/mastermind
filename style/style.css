@@ -1,0 +1,119 @@
+.button {    
+    background-color: gray; 
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.buttonCheck {    
+    background-color: greenyellow; 
+    height: 80px;
+    width: 80px;
+}
+
+.divCenter {
+    padding: 0px 0;
+    border: 3px solid hidden;
+    text-align: center;
+}
+
+.divTopCenter {
+    padding: 30px 0;
+    border: 3px solid hidden;
+    text-align: center;
+}
+
+#rouge {
+    background-color: red; 
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+#bleu {
+    background-color: blue; 
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+#vert {
+    background-color: green; 
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+#orange {
+    background-color: orange; 
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+#rose {
+    background-color: pink; 
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+#violet {
+    background-color: violet; 
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+#jaune {
+    background-color: yellow; 
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+#blanc {
+    background-color: white; 
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+#gris {
+    background-color: gray; 
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+#black {
+    background-color: black; 
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+#dark {
+    background-color: black; 
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+body{
+    background-color: white;
+}
+
+.v-line{
+    height:100%;
+    left: 50%;
+    position: relative;
+    left: 250px;
+    bottom: 50px;
+   }
+
+
+.cache{
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0);
+}
